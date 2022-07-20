@@ -61,3 +61,4 @@ public:
 
 // t.c. = O(3^(N^2))
 // s.c. = O(3^(N^2))
+// s.c. without including path space : O(N^2) maximum path length can be N^2

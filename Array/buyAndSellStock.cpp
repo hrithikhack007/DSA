@@ -1,5 +1,5 @@
-// greedy. take a variable mini and at every i minimize so that we can buy at minimum price and maximize the profit by selling the stock at that
-// i.
+// greedy. take a variable mini and at every i minimize so that we can buy at minimum price and maximize the profit by selling the stock at
+// that i.
 
 class Solution {
 public:
