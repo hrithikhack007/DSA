@@ -33,6 +33,9 @@ using namespace std;
 
 
 
+
+
+
 void answerNikalBc() {
 
 	ll n, k, b, T;
