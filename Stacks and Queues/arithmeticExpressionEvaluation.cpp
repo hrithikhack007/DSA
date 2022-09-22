@@ -119,4 +119,4 @@ int evaluateArithmeticExpression(string &expression)
 }
 
 // t.c. = O(N)
-// s.c. = O(N)
+// s.c. = O(N) or O(1) confusion?
